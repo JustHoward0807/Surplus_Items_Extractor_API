@@ -1,0 +1,4340 @@
+[
+  {
+    "SurplusNumber": "160264 0001 43343",
+    "Qty": "10",
+    "Description": "ARTWORK",
+    "Price": "40.00",
+    "PublicDate": "3/7/2024",
+    "Type": "Print/Picture",
+    "Category": "Art and Performing Arts Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160426 0013 43145",
+    "Qty": "1",
+    "Description": "FRAMED ART, FOREST WATERCOLOR, UNKNOWN ARTIST",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Print/Picture",
+    "Category": "Art and Performing Arts Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160426 0005 43145",
+    "Qty": "1",
+    "Description": "FRAMED ART, PERFECT DAY, KINKADE, PRINTED",
+    "Price": "300.00",
+    "PublicDate": "null",
+    "Type": "Print/Picture",
+    "Category": "Art and Performing Arts Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160426 0004 43145",
+    "Qty": "1",
+    "Description": "FRAMED ART, PORTRAIT, UNKNOWN GENTLEMAN,",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Print/Picture",
+    "Category": "Art and Performing Arts Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160426 0008 43145",
+    "Qty": "1",
+    "Description": "FRAMED ART, SIMPLER TIMES, KINKADE, PRINTED",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Print/Picture",
+    "Category": "Art and Performing Arts Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160426 0007 43145",
+    "Qty": "1",
+    "Description": "FRAMED ART, TWILIGHT COTTAGE, KINKADE, PRINTED",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Print/Picture",
+    "Category": "Art and Performing Arts Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160426 0009 43145",
+    "Qty": "1",
+    "Description": "FRAMED ART, VILLAGE XMAS, KINKADE, PRINTED",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Print/Picture",
+    "Category": "Art and Performing Arts Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161084 0005 43320",
+    "Qty": "1",
+    "Description": "AUDIO COMPONENT",
+    "Price": "50.00",
+    "PublicDate": "3/7/2024",
+    "Type": "Audio Visual",
+    "Category": "Audio Visual"
+  },
+  {
+    "SurplusNumber": "159406 0036 42817",
+    "Qty": "1",
+    "Description": "CAMERA, COBRA, CRANE",
+    "Price": "75.00",
+    "PublicDate": "null",
+    "Type": "Photography/Camera",
+    "Category": "Audio Visual"
+  },
+  {
+    "SurplusNumber": "160087 0016 43060",
+    "Qty": "1",
+    "Description": "CAMERA, QIMAGING, RGB SLIDER AND LENS",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Photography/Camera",
+    "Category": "Audio Visual"
+  },
+  {
+    "SurplusNumber": "158570 0033 42513",
+    "Qty": "1",
+    "Description": "ENLARGER, BESELER",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Photography/Camera",
+    "Category": "Audio Visual"
+  },
+  {
+    "SurplusNumber": "159479 0023 42835",
+    "Qty": "1",
+    "Description": "PROJECTOR, PROJECTIONDESIGN, F3XST, 06100104",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Projector/Screen",
+    "Category": "Audio Visual"
+  },
+  {
+    "SurplusNumber": "159479 0025 42835",
+    "Qty": "1",
+    "Description": "PROJECTOR, PROJECTIONDESIGN, F3XST, 06100106",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Projector/Screen",
+    "Category": "Audio Visual"
+  },
+  {
+    "SurplusNumber": "159479 0024 42835",
+    "Qty": "1",
+    "Description": "PROJECTOR, PROJECTIONDESIGN, F3XST, 06100107",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Projector/Screen",
+    "Category": "Audio Visual"
+  },
+  {
+    "SurplusNumber": "160765 0017 43250",
+    "Qty": "1",
+    "Description": "TELEVISION, SHARP, 80\" 1080P",
+    "Price": "150.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Television",
+    "Category": "Audio Visual"
+  },
+  {
+    "SurplusNumber": "160089 0022 43061",
+    "Qty": "1",
+    "Description": "COMPUTER",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160089 0023 43061",
+    "Qty": "1",
+    "Description": "COMPUTER",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160089 0024 43061",
+    "Qty": "1",
+    "Description": "COMPUTER",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160089 0025 43061",
+    "Qty": "1",
+    "Description": "COMPUTER",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160089 0039 43061",
+    "Qty": "1",
+    "Description": "COMPUTER",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160089 0042 43061",
+    "Qty": "1",
+    "Description": "COMPUTER",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160720 0002 43277",
+    "Qty": "1",
+    "Description": "COMPUTER",
+    "Price": "50.00",
+    "PublicDate": "3/7/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160066 0001 43056",
+    "Qty": "1",
+    "Description": "COMPUTER, APPLE, IMAC, C02SF3V9GG77",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "156548 0012 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7050, BY80MN2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "156548 0016 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7050, BY90MN2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "156548 0002 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7050, CGPNKH2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0020 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 2FTXDX2",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0033 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 2GRZDX2",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0031 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 2GVZDX2",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0019 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 3X25DV2",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0032 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 3X33DV2",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0018 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 3X36DV2",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0022 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 3Y35DV2",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0030 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 3Y53DV2",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0023 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 781BZV2",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0017 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 781CZV2",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0021 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 781FZV2",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0024 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7060 MFF, 9Z6LZV2",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0025 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, 3Y23DV2",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0033 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, 4X5P4Z2",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0026 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, 4X7Q4Z2",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0028 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, 59HF153",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0034 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, 6D6Z3Y2",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0038 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, 6DJ24Y2",
+    "Price": "200.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0034 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, 7LH5BZ2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0029 43155",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, 7LHCBZ2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0027 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, 7LK8BZ2",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0029 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, 7LL4BZ2",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0031 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, BPQ24Z2",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0030 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, BPWGPY2",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0035 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, FB214Z2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0031 43155",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, FT7JH03",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0037 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, FT8CH03",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0032 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MFF, HH4K333",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0036 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MINI TWR, 6NG7T13",
+    "Price": "200.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0035 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 MINI TWR, J3T7T13",
+    "Price": "200.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0037 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 SFF, 9GHXY23",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0039 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7070 SFF, GKX7333",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0038 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 7080 SFF, 8GY5N83",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160042 0009 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 750, 7R75XM2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160042 0003 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 750, 933XTQ2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160042 0001 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 750, F75QHK2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160042 0010 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 750, GY2T0Q2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160042 0008 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 750, GYZV0Q2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160042 0004 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 750, GZ0Z0Q2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160042 0007 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 750, GZ1W0Q2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160042 0006 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 750, GZ1Y0Q2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160042 0005 43159",
+    "Qty": "1",
+    "Description": "COMPUTER, DELL, OPTIPLEX 750, J3R01Q2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160497 0046 43167",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITE8300 G3 MINI, 8CG7514JZV",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159205 0042 42737",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 705 G4 MINI, MXL9172S0J",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0059 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 DM 65W, 8CG73502R3",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0060 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 DM 65W, 8CG8021WXT",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0061 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 DM 65W, 8CG8021WY9",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0065 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 DM, 8CG81034RT",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0072 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI 35W,",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0061 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7261H45",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0050 43189",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG72702YH",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0062 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG727032K",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160054 0075 43054",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7357QPG",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0080 43231",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG73854L7",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0109 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG73854L9",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0074 43231",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7402NQ2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0111 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7412HR6",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0073 43231",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG744060N",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0079 43231",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG744060W",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0052 43189",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG744061F",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0124 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7501LJF",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0120 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7501LJM",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0116 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7501LJS",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0130 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7511GP6",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0115 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG7511GPD",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0128 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8021WX4",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0082 43231",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8021WZJ",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0118 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8044N6N",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0117 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8083WFC",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0129 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG81034S9",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0056 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8105HBR",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0063 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8105HBX",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0112 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8105HBZ",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0127 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG81529H2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0059 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8165KHX",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0060 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8165KHX",
+    "Price": "50.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0091 43155",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8186C2L",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160220 0058 43107",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8200S2T",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0055 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8200S3R",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0081 43231",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8200S49",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0078 43231",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8211WT6",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0075 43231",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8238DB3",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0051 43189",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8238DBD",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0122 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8243F60",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160220 0059 43107",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8243F6M",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0113 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8243F6Q",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0057 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8342WFH",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160220 0056 43107",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834961N",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0126 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8349624",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0114 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834962L",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0125 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG834962S",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0119 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, 8CG8372YJ3",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0058 43267",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 MINI, MXL7312BCS",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0084 43231",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7262M0D",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160127 0105 43078",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7311RZQ",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160348 0131 43130",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL7312BCP",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0093 43155",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL74621WN",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160127 0106 43078",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL8121Q5K",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160220 0060 43107",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL8201H1H",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0053 43189",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G3 SFF, MXL845203R",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160497 0007 43167",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G5 SFF, MXL01343L7",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160497 0010 43167",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G5 SFF, MXL01343N5",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160497 0004 43167",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK 800 G5 SFF, MXL9391T48",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0042 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK MINI, 8CG7402KR6",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160497 0020 43167",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK MINI, 8CG8111PJL",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160497 0026 43167",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK MINI, 8CG8111PL3",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0016 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8111PH7",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0015 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8111PHD",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0011 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8111PJP",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0020 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8111PJY",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0008 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8111PK8",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0014 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8111PKG",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0010 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8111PKQ",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0012 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8111PL4",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0009 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8111PL5",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0013 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8111PL9",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0021 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8316KJN",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0019 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, 8CG8316KKG",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0007 42937",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, ELITEDESK, MXL9232752",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160497 0014 43167",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, G3, 8CG7402KS5",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160497 0015 43167",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, G3, 8CG7402KS8",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160497 0016 43167",
+    "Qty": "1",
+    "Description": "COMPUTER, HP, G3, 8CG8111PHR",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0103 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, USI, DTCI7QC, 078907",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0102 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, USI, DTCI7QC, 079475",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0104 43323",
+    "Qty": "1",
+    "Description": "COMPUTER, USI, DTCI7QC, 080040",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160089 0045 43061",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160779 0007 43258",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, 1YS8CP2",
+    "Price": "100.00",
+    "PublicDate": "2/28/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160779 0016 43258",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, 872824",
+    "Price": "50.00",
+    "PublicDate": "2/28/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160523 0021 43174",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, BDC9CP2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0001 42768",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0003 42768",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0006 42768",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0009 42768",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0010 42768",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0011 42768",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0025 42768",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0026 42768",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0068 42768",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0085 42768",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160826 0001 43324",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DELL, OPTIPLEX 7070 MFF,",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160523 0002 43174",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, DQ5VJH2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160523 0023 43174",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, GDWJMN2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160779 0008 43258",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, GTN5MN2",
+    "Price": "100.00",
+    "PublicDate": "2/28/2024",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0146 42896",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, HP, ELITEDESK 800 G3 SFF,",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0147 42896",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, HP, ELITEDESK 800 G3 SFF,",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0150 42896",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, HP, ELITEDESK 800 G3 SFF,",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0151 42896",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, HP, ELITEDESK 800 G3 SFF,",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0149 42896",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, HP, ELITEDESK 800 G3 SFF,",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0145 42896",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, HP, ELITEDESK 800 G3 SFF,",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0152 42896",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, HP, ELITEDESK 800 G3 SFF,",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0153 42896",
+    "Qty": "1",
+    "Description": "DESKTOP COMPUTER, HP, ELITEDESK 800 MINI G3 65W,",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159781 0033 42937",
+    "Qty": "1",
+    "Description": "TOWER, COMPUTER, HP, ELITEDESK, 8CC837003H",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "CPU",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160523 0009 43174",
+    "Qty": "1",
+    "Description": "LAPTOP, 2JMT473",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160523 0024 43174",
+    "Qty": "1",
+    "Description": "LAPTOP, 6N714H2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160414 0006 42985",
+    "Qty": "1",
+    "Description": "LAPTOP, 7400, 8MFYP13",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159881 0001 42831",
+    "Qty": "1",
+    "Description": "LAPTOP, 7410, 7D7B9Y2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160414 0005 42985",
+    "Qty": "1",
+    "Description": "LAPTOP, 7410, G9XYQ73",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160523 0010 43174",
+    "Qty": "1",
+    "Description": "LAPTOP, 84D5M33",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160523 0007 43174",
+    "Qty": "1",
+    "Description": "LAPTOP, 9C7MMH2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160097 0051 43211",
+    "Qty": "1",
+    "Description": "LAPTOP, ACER",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160066 0011 43056",
+    "Qty": "1",
+    "Description": "LAPTOP, CYF6Q73",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160523 0011 43174",
+    "Qty": "1",
+    "Description": "LAPTOP, D1MB5Y2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160523 0020 43174",
+    "Qty": "1",
+    "Description": "LAPTOP, D9WS1Z2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0011 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5400 LATITUDE, 348RL33",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0009 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5400 LATITUDE, 9YRCL33",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0012 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5400 LATITUDE, D2QHYY2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0014 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410 LATITUDE, 14ZBR73",
+    "Price": "200.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0025 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 1KCQ453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0053 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 1Q2V253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0033 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 238G453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0004 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 2P7SL63",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0012 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 340P253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0051 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 34GV253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0035 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 37G5453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0038 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 39M8453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0036 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 3BG5453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0046 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 3RMV253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0048 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 3TBT253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0016 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 3WCP253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0020 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 3Z8Q253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0017 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 4JKP253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0011 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 51RP253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0021 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 58RP253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0006 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 5F8SL63",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0044 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 5JQT253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0018 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 5VTQ253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0054 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 64XT253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0022 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 6H0R253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0029 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 6J3Q253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0040 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 71M8453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0007 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 71RP253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0019 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 73VQ253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0031 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 8YRQL63",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0052 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, 92XT253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0050 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, B7GV253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0005 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, BJ7SL63",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0030 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, CD3Q253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0034 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, CDN6453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0042 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, CS07453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0024 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, D80Q453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0049 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, DQMV253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0028 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, F3NQ253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0015 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, FNCP253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0002 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, G4BRL63",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0032 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, G8N6453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0037 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, GYF6453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0039 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, H885453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0056 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, HC5T253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0014 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, HD0P253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0043 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, HWBT253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0009 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, HX8Q253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0045 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, HY2V253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0013 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, J1RP253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0047 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, J2GV253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0041 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, J2V6453",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0003 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, JGDQL63",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0027 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, JQCP253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0008 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5410, JSXP253",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0016 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 5420 LATITUDE, FK5J3F3",
+    "Price": "250.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0057 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7390, GN9HRV2",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0062 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7400, 19RSN13",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0064 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7400, 3ZR6Q13",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0061 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7400, 4547Q13",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0063 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7400, 53RSN13",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0058 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7400, 5JSVNF2",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0065 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7400, 8TLK5Y2",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0066 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7400, F2L6Q13",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0060 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7400, HK4S4Y2",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0059 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7400, J02D6Y2",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0069 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7490, 5GSVNFZ",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0068 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, 7490, HFQ27S2",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0010 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, 1MRSL33",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160127 0024 43078",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, 2BSSL13",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0022 43189",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, 4HPY0Z2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0021 43189",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, 4N189Y2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0016 43231",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, 6B5VL33",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0012 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, 6SRSL33",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0019 43189",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, 727TL33",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160127 0031 43078",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, 9T189Y2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0008 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, B7Y8L13",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0018 43189",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, BYHK9Y2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0009 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, CVCTL33",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0007 43155",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, GWDSZY2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0005 43155",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5400, H9789Y2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160220 0022 43107",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5410, 1LYL473",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160719 0019 43231",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5420, 318R353",
+    "Price": "250.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0013 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 5430, G79V2T3",
+    "Price": "250.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0017 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7390 2 IN 1, 223FQV2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0020 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7390 2 IN 1, 9ZW7QV2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0018 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7390 2 IN 1, BK8FQV2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "156548 0011 43159",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7390, C5D6WT2",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0023 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490 2 IN 1, 21KQ2X2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160511 0005 43232",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, 1LGKJR2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0011 43155",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, 1MXG0X2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0016 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, 349J6Y2",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0024 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, 3NLLXT2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160511 0006 43232",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, 409KJR2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0015 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, 6HRG0X2",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160511 0008 43232",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, 7SL7NF2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0027 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, 8Q7LXT2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160511 0004 43232",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, 8SH0JR2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0025 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, DZVVXT2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0029 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, F52LXT2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160511 0007 43232",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, FNFMTT2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0028 43267",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, LATITUDE 7490, GVSG0X2",
+    "Price": "100.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0032 43189",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, PRECISION 3541, 7T1XXY2",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0066 43155",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, PRECISION 3541, 8P4Z733",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0063 43155",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, PRECISION 3541, 992Y1Z2",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0031 43189",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, PRECISION 3541, 9BMH3Z2",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160586 0029 43189",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, PRECISION 3541, BTSH3X2",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0041 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, PRECISION 3541, C8SY733",
+    "Price": "200.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0040 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, PRECISION 3541, DFBQ2Z2",
+    "Price": "200.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0062 43155",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, PRECISION 3541, H7N65Y2",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0042 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, PRECISION 3561, HL74JG3",
+    "Price": "250.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160536 0072 43221",
+    "Qty": "1",
+    "Description": "LAPTOP, DELL, XPS, C057RV2",
+    "Price": "100.00",
+    "PublicDate": "2/29/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160467 0083 43155",
+    "Qty": "1",
+    "Description": "LAPTOP, HP, ELITEBOOK 840 G4, 5CG7401MQZ",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160381 0001 43146",
+    "Qty": "1",
+    "Description": "LAPTOP, HP, ELITEBOOK 840 G4, 5CG74816DR",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0053 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, HP, ELITEBOOK 850 G3, 5CG711470K",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0054 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, HP, ELITEBOOK 850 G4, 5CG8243C40",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0055 43323",
+    "Qty": "1",
+    "Description": "LAPTOP, HP, X360 1030 G2, 5CG7461W4X",
+    "Price": "100.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160097 0007 43211",
+    "Qty": "1",
+    "Description": "LAPTOP, LENOVO, LATITUDE 3400",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Laptop/Notebook",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158416 0021 42464",
+    "Qty": "1",
+    "Description": "MONITOR",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159205 0140 42737",
+    "Qty": "2",
+    "Description": "MONITOR",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159281 0093 42768",
+    "Qty": "1",
+    "Description": "MONITOR",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0516 42896",
+    "Qty": "1",
+    "Description": "MONITOR",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160089 0048 43061",
+    "Qty": "1",
+    "Description": "MONITOR",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160497 0001 43167",
+    "Qty": "4",
+    "Description": "MONITOR",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160612 0018 43200",
+    "Qty": "2",
+    "Description": "MONITOR",
+    "Price": "50.00",
+    "PublicDate": "2/23/2024",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160720 0001 43277",
+    "Qty": "3",
+    "Description": "MONITOR",
+    "Price": "40.00",
+    "PublicDate": "3/7/2024",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159241 0007 42947",
+    "Qty": "3",
+    "Description": "MONITOR, ASUS, ACER",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158836 0112 42720",
+    "Qty": "1",
+    "Description": "MONITOR, ASUS, B3LMQS054574",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161173 0007 43332",
+    "Qty": "1",
+    "Description": "MONITOR, DELL, P2815QF, HDGJNZ1",
+    "Price": "40.00",
+    "PublicDate": "3/6/2024",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0048 43267",
+    "Qty": "1",
+    "Description": "MONITOR, HP, 24 LED, CNK7241FGS",
+    "Price": "40.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161088 0043 43323",
+    "Qty": "1",
+    "Description": "MONITOR, HP, CNK7120PPC",
+    "Price": "40.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0178 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0181 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0184 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0185 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0186 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0187 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0188 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0189 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0192 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0193 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0194 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0195 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0196 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0197 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0198 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0199 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0200 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0201 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0202 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0204 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0207 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0208 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0212 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0213 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0215 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0216 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0217 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0220 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0221 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0222 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0223 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0224 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0225 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0226 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0227 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0228 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0229 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0230 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0233 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0235 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0239 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0241 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0242 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0243 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0245 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0246 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0247 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0253 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0255 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0257 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0259 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0260 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0264 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0265 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0266 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0269 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0270 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0271 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0272 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0273 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0274 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0275 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0276 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159672 0277 42896",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ELITE DISPLAY E240",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161173 0002 43332",
+    "Qty": "1",
+    "Description": "MONITOR, HP, ZR2740W, CNT250Y1VP",
+    "Price": "40.00",
+    "PublicDate": "3/6/2024",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158538 0097 42500",
+    "Qty": "1",
+    "Description": "MONITOR, LENOVO",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160936 0072 43267",
+    "Qty": "1",
+    "Description": "MONITOR, NEC, 24 LCD, S2Y114050NA",
+    "Price": "40.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Monitor",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160612 0006 43200",
+    "Qty": "2",
+    "Description": "PRINTER",
+    "Price": "100.00",
+    "PublicDate": "2/23/2024",
+    "Type": "Printer/Plotter/Scanner/Fax",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160479 0001 43182",
+    "Qty": "1",
+    "Description": "PRINTER, EPSON, SURECOLOR, P500",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Printer/Plotter/Scanner/Fax",
+    "Category": "Computer/IT/Telecommunication Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160534 0011 43212",
+    "Qty": "9",
+    "Description": "LIGHT, INFARED",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Lighting",
+    "Category": "Electrical Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159142 0003 43165",
+    "Qty": "1",
+    "Description": "ISOLATOR",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Motor/Pump",
+    "Category": "Electrical Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158844 0013 43281",
+    "Qty": "1",
+    "Description": "PUMP, NEWPORT",
+    "Price": "40.00",
+    "PublicDate": "3/1/2024",
+    "Type": "Motor/Pump",
+    "Category": "Electrical Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159666 0004 42894",
+    "Qty": "1",
+    "Description": "COOLER, STRUCTURAL REACH IN, HOU4852R, 0323893",
+    "Price": "500.00",
+    "PublicDate": "null",
+    "Type": "Food Service and Kitchen Equipment/Supply",
+    "Category": "Food Service and Kitchen Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160750 0013 43246",
+    "Qty": "1",
+    "Description": "SWAMP COOLER, PORTABLE",
+    "Price": "100.00",
+    "PublicDate": "3/6/2024",
+    "Type": "Heating/Refrigeration",
+    "Category": "Heating/Refrigeration"
+  },
+  {
+    "SurplusNumber": "158701 0005 43092",
+    "Qty": "1",
+    "Description": "WASHING MACHINE, GE",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Appliances",
+    "Category": "Home Furnishings"
+  },
+  {
+    "SurplusNumber": "161185 0001 43335",
+    "Qty": "1",
+    "Description": "FLOOR SCRUBBER, ACECARE, NUMATIC EBT/TTB4055,",
+    "Price": "300.00",
+    "PublicDate": "3/7/2024",
+    "Type": "Janitorial/Laundry/Cleaning",
+    "Category": "Janitorial/Laundry/Cleaning"
+  },
+  {
+    "SurplusNumber": "159877 0002 42986",
+    "Qty": "1",
+    "Description": "VACUUM, HOOVER HUSHTONE, CH94306, 1713B0003",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Janitorial/Laundry/Cleaning",
+    "Category": "Janitorial/Laundry/Cleaning"
+  },
+  {
+    "SurplusNumber": "159877 0011 42986",
+    "Qty": "1",
+    "Description": "VACUUM, HOOVER, CH94306, 16228B0037",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Janitorial/Laundry/Cleaning",
+    "Category": "Janitorial/Laundry/Cleaning"
+  },
+  {
+    "SurplusNumber": "159877 0017 42986",
+    "Qty": "1",
+    "Description": "VACUUM, HOOVER, CH94306, 18067B0007",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Janitorial/Laundry/Cleaning",
+    "Category": "Janitorial/Laundry/Cleaning"
+  },
+  {
+    "SurplusNumber": "159877 0043 42986",
+    "Qty": "1",
+    "Description": "VACUUM, HOOVER, HUSHTONE, 17331B0015",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Janitorial/Laundry/Cleaning",
+    "Category": "Janitorial/Laundry/Cleaning"
+  },
+  {
+    "SurplusNumber": "159129 0007 43113",
+    "Qty": "1",
+    "Description": "VACUUM PUMP",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Bath/Circulator/Pump",
+    "Category": "Laboratory/Scientific/Medical Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158073 0022 42431",
+    "Qty": "1",
+    "Description": "CRYOSTAT, LEICA CM 1900, 0452227382",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Biomedical/Clinical",
+    "Category": "Laboratory/Scientific/Medical Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159747 0001 42923",
+    "Qty": "1",
+    "Description": "PCR SYSTEM, EPPENDORF, PRO GRADIENT S,",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Biomedical/Clinical",
+    "Category": "Laboratory/Scientific/Medical Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160253 0004 43248",
+    "Qty": "1",
+    "Description": "GEL DOCUMENTER, BIO-RAD, SYSTEM",
+    "Price": "75.00",
+    "PublicDate": "2/27/2024",
+    "Type": "Biotechnology",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "160253 0003 43248",
+    "Qty": "1",
+    "Description": "PLATE READER, BIOTECH, SYNERGY HT",
+    "Price": "75.00",
+    "PublicDate": "2/27/2024",
+    "Type": "Biotechnology",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "159871 0001 43072",
+    "Qty": "1",
+    "Description": "PLATE READER, MIROTITER",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Biotechnology",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "160253 0001 43248",
+    "Qty": "1",
+    "Description": "THERMAL CYCLER, BIO-RAD, S1000",
+    "Price": "75.00",
+    "PublicDate": "2/27/2024",
+    "Type": "Biotechnology",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "160301 0002 43122",
+    "Qty": "1",
+    "Description": "FLUOROMETER, POLARSTAR+OPTIMA",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Electronic/Test Equipment",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "158842 0006 43163",
+    "Qty": "1",
+    "Description": "OSCILLOSCOPE, HP",
+    "Price": "50.00",
+    "PublicDate": "2/23/2024",
+    "Type": "Electronic/Test Equipment",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "158842 0007 43163",
+    "Qty": "1",
+    "Description": "OSCILLOSCOPE, HP",
+    "Price": "50.00",
+    "PublicDate": "2/23/2024",
+    "Type": "Electronic/Test Equipment",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "158842 0008 43163",
+    "Qty": "1",
+    "Description": "OSCILLOSCOPE, TEKTRONIX, TM504",
+    "Price": "50.00",
+    "PublicDate": "2/23/2024",
+    "Type": "Electronic/Test Equipment",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "159712 0012 42923",
+    "Qty": "1",
+    "Description": "DEWAR, LN2",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Freezer/Refrigerator",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "159133 0003 43049",
+    "Qty": "1",
+    "Description": "TABLE, MASSAGE",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Hospital Furniture",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "159712 0011 42923",
+    "Qty": "1",
+    "Description": "TABLE, AIR",
+    "Price": "250.00",
+    "PublicDate": "null",
+    "Type": "Laboratory Furniture",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "158815 0001 42586",
+    "Qty": "1",
+    "Description": "APHERESIS MACHINE, COBE, SPECTRA, 1SO4242",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "160616 0001 43126",
+    "Qty": "1",
+    "Description": "CHAIR, MEDICAL, TILT, MARCO",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "157838 0001 42967",
+    "Qty": "1",
+    "Description": "COAGULOMETER, BIOMEDICA, QC4000, 40523",
+    "Price": "75.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "160246 0010 43255",
+    "Qty": "5",
+    "Description": "EXAM TABLE",
+    "Price": "50.00",
+    "PublicDate": "2/23/2024",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "158678 0001 43035",
+    "Qty": "1",
+    "Description": "GURNEY, HOSPITAL STRETCHER",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "159684 0001 42902",
+    "Qty": "1",
+    "Description": "HEADLIGHT, MEDICAL, WA SOLARC, WA49520, 49501",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "159142 0009 43165",
+    "Qty": "1",
+    "Description": "HYDROCOLLATOR",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "159142 0012 43165",
+    "Qty": "1",
+    "Description": "MEDICAL DEVICE, SHUTTLE MVE SYSTEM",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "157389 0010 42507",
+    "Qty": "1",
+    "Description": "MEDICAL DEVICE, TECHNEGAS, TECHNEGAS PLUS",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "159142 0013 43165",
+    "Qty": "1",
+    "Description": "PHYSICAL THERAPY MACHINE, LEG EXTENSION, CYBEX",
+    "Price": "200.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "159931 0001 43093",
+    "Qty": "1",
+    "Description": "STRETCHER, HILLROM, P8000, M298AQ9836",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "158693 0011 43088",
+    "Qty": "1",
+    "Description": "TABLE, PHYSICAL THERAPY, LARGE",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "158693 0012 43088",
+    "Qty": "4",
+    "Description": "TABLE, PHYSICAL THERAPY, SMALL",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Medical",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "158844 0010 43281",
+    "Qty": "1",
+    "Description": "MICROSCOPE",
+    "Price": "200.00",
+    "PublicDate": "3/1/2024",
+    "Type": "Microscope",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "160087 0013 43060",
+    "Qty": "1",
+    "Description": "MICROSCOPE, DISSECTING, BAUSCH & LOMB",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Microscope",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "157474 0001 42903",
+    "Qty": "1",
+    "Description": "MICROSCOPE, NIKON",
+    "Price": "250.00",
+    "PublicDate": "null",
+    "Type": "Microscope",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "112123 0037 42904",
+    "Qty": "1",
+    "Description": "OVEN, SCIENTIFIC",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Oven/Chamber/Incubator/Furnace",
+    "Category": "06325BQ317672"
+  },
+  {
+    "SurplusNumber": "159610 0003 42871",
+    "Qty": "1",
+    "Description": "COMPRESSION MACHINE, VERSATEST",
+    "Price": "300.00",
+    "PublicDate": "null",
+    "Type": "Machinery",
+    "Category": "Machinery/Industrial"
+  },
+  {
+    "SurplusNumber": "160750 0009 43246",
+    "Qty": "1",
+    "Description": "SNOWBLOWER, ST1236",
+    "Price": "100.00",
+    "PublicDate": "3/6/2024",
+    "Type": "Machinery",
+    "Category": "Machinery/Industrial"
+  },
+  {
+    "SurplusNumber": "159884 0001 42993",
+    "Qty": "1",
+    "Description": "CART, ROLLING",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Material Handling Equipment",
+    "Category": "Material Handling Equipment"
+  },
+  {
+    "SurplusNumber": "161015 0001 43306",
+    "Qty": "1",
+    "Description": "STEP PLATFORM, 4-STEP ROLLING",
+    "Price": "100.00",
+    "PublicDate": "2/28/2024",
+    "Type": "Material Handling Equipment",
+    "Category": "Material Handling Equipment"
+  },
+  {
+    "SurplusNumber": "160251 0011 43198",
+    "Qty": "1",
+    "Description": "DISPLAY CABINET",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Cabinet, Display",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159111 0001 42699",
+    "Qty": "1",
+    "Description": "DISPLAY CASE, GLASS SHELVES, GLASS SLIDING DOORS",
+    "Price": "80.00",
+    "PublicDate": "null",
+    "Type": "Cabinet, Display",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160658 0003 43213",
+    "Qty": "1",
+    "Description": "BOOKSHELF, 5 TIER",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Cabinet/Shelf",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160733 0001 43238",
+    "Qty": "1",
+    "Description": "CABINET, METAL, STEEL",
+    "Price": "40.00",
+    "PublicDate": "3/4/2024",
+    "Type": "Cabinet/Shelf",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158682 0001 43067",
+    "Qty": "1",
+    "Description": "LOCKER",
+    "Price": "80.00",
+    "PublicDate": "null",
+    "Type": "Cabinet/Shelf",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160245 0002 43255",
+    "Qty": "4",
+    "Description": "CHAIR, OFFICE",
+    "Price": "50.00",
+    "PublicDate": "2/23/2024",
+    "Type": "Chair/Couch/Stool",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "157489 0001 42962",
+    "Qty": "1",
+    "Description": "CREDENZA",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "157354 0002 42432",
+    "Qty": "2",
+    "Description": "DESK",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "157430 0006 42488",
+    "Qty": "3",
+    "Description": "DESK",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "157447 0001 42612",
+    "Qty": "1",
+    "Description": "DESK",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158144 0008 42367",
+    "Qty": "4",
+    "Description": "DESK",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158465 0002 42479",
+    "Qty": "2",
+    "Description": "DESK",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159610 0005 42871",
+    "Qty": "1",
+    "Description": "DESK",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160109 0003 43071",
+    "Qty": "1",
+    "Description": "DESK",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160245 0001 43255",
+    "Qty": "5",
+    "Description": "DESK",
+    "Price": "50.00",
+    "PublicDate": "2/23/2024",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160612 0005 43200",
+    "Qty": "1",
+    "Description": "DESK",
+    "Price": "50.00",
+    "PublicDate": "2/23/2024",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160658 0001 43213",
+    "Qty": "2",
+    "Description": "DESK",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158595 0001 42555",
+    "Qty": "1",
+    "Description": "DESK, BROWN",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159696 0001 42881",
+    "Qty": "1",
+    "Description": "DESK, EXECUTIVE",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159631 0001 42881",
+    "Qty": "1",
+    "Description": "DESK, EXECUTIVE, LG",
+    "Price": "70.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159977 0003 43017",
+    "Qty": "3",
+    "Description": "DESK, L SHAPED",
+    "Price": "75.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158724 0001 42560",
+    "Qty": "1",
+    "Description": "DESK, WOOD",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159966 0001 43015",
+    "Qty": "1",
+    "Description": "DESK, WOOD",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160750 0011 43246",
+    "Qty": "1",
+    "Description": "STANDING DESK CONVERTER",
+    "Price": "40.00",
+    "PublicDate": "3/6/2024",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160765 0001 43250",
+    "Qty": "1",
+    "Description": "STANDING DESK CONVERTER",
+    "Price": "40.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "159909 0005 42989",
+    "Qty": "1",
+    "Description": "STANDING DESK CONVERTER, VARIDESK",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "161084 0002 43320",
+    "Qty": "2",
+    "Description": "STANDING DESK CONVERTER, VARIDESK",
+    "Price": "40.00",
+    "PublicDate": "3/7/2024",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160841 0001 43287",
+    "Qty": "1",
+    "Description": "STANDING DESK CONVERTER, VARIDESK, PRO 36\"",
+    "Price": "40.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160850 0002 43280",
+    "Qty": "2",
+    "Description": "STANDING DESK, VERSA DESK",
+    "Price": "40.00",
+    "PublicDate": "2/27/2024",
+    "Type": "Desk",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "157421 0024 42642",
+    "Qty": "1",
+    "Description": "FILE CABINET",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "File Cabinet",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158245 0004 42401",
+    "Qty": "1",
+    "Description": "FILE CABINET",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "File Cabinet",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "157368 0007 42458",
+    "Qty": "1",
+    "Description": "FILE CABINET, 4 DRAWER",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "File Cabinet",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160065 0002 43055",
+    "Qty": "1",
+    "Description": "FILE CABINET, 5 DRAWER",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "File Cabinet",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160250 0003 43198",
+    "Qty": "3",
+    "Description": "FILE CABINET, 5 DRAWER",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "File Cabinet",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "157487 0002 42955",
+    "Qty": "1",
+    "Description": "FILE CABINET, 5 DRAWER, WHITE",
+    "Price": "50.00",
+    "PublicDate": "null",
+    "Type": "File Cabinet",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160251 0002 43198",
+    "Qty": "1",
+    "Description": "FILE CABINET, MAP, 10 DRAWER",
+    "Price": "50.00",
+    "PublicDate": "2/26/2024",
+    "Type": "File Cabinet",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158565 0001 42508",
+    "Qty": "1",
+    "Description": "TABLE",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Table/Stand",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158882 0006 42606",
+    "Qty": "1",
+    "Description": "TABLE",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Table/Stand",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160250 0004 43198",
+    "Qty": "1",
+    "Description": "TABLE",
+    "Price": "40.00",
+    "PublicDate": "2/26/2024",
+    "Type": "Table/Stand",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160481 0028 43162",
+    "Qty": "2",
+    "Description": "TABLE, HALF HEXAGON",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Table/Stand",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160279 0006 43116",
+    "Qty": "2",
+    "Description": "TABLE, MWCI",
+    "Price": "40.00",
+    "PublicDate": "null",
+    "Type": "Table/Stand",
+    "Category": "Office/School/Furniture Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160581 0005 43242",
+    "Qty": "1",
+    "Description": "WATER PURIFICATION SYSTEM, MILLI Q, ADVANTAGE A10",
+    "Price": "100.00",
+    "PublicDate": "2/27/2024",
+    "Type": "Plumbing Equipment/Supply",
+    "Category": "Plumbing Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "160581 0004 43242",
+    "Qty": "1",
+    "Description": "WATER PURIFICATION SYSTEM, MILLI Q, ADVANTAGE,",
+    "Price": "100.00",
+    "PublicDate": "2/27/2024",
+    "Type": "Plumbing Equipment/Supply",
+    "Category": "Plumbing Equipment/Supply"
+  },
+  {
+    "SurplusNumber": "158702 0002 43029",
+    "Qty": "1",
+    "Description": "ELLIPTICAL EXERCISE MACHINE, LIFETIME FITNESS",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Sports/Exercise/Outdoor Recreation Equipment",
+    "Category": "Sports/Exercise/Outdoor Recreation Equipment"
+  },
+  {
+    "SurplusNumber": "158701 0002 43092",
+    "Qty": "1",
+    "Description": "EXERCISE MACHINE, CYBEX, LEG CURL",
+    "Price": "250.00",
+    "PublicDate": "null",
+    "Type": "Sports/Exercise/Outdoor Recreation Equipment",
+    "Category": "Sports/Exercise/Outdoor Recreation Equipment"
+  },
+  {
+    "SurplusNumber": "158701 0004 43092",
+    "Qty": "1",
+    "Description": "EXERCISE MACHINE, CYBEX, ROTARY HIP",
+    "Price": "250.00",
+    "PublicDate": "null",
+    "Type": "Sports/Exercise/Outdoor Recreation Equipment",
+    "Category": "Sports/Exercise/Outdoor Recreation Equipment"
+  },
+  {
+    "SurplusNumber": "158701 0003 43092",
+    "Qty": "1",
+    "Description": "EXERCISE MACHINE, CYBEX, UBE",
+    "Price": "100.00",
+    "PublicDate": "null",
+    "Type": "Sports/Exercise/Outdoor Recreation Equipment",
+    "Category": "Sports/Exercise/Outdoor Recreation Equipment"
+  }
+]
