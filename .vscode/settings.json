@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/7fa15b21-668f-4430-869a-39878b46076a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/uofu-surpluslist-api",
+    "appService.deploySubpath": "."
+}
